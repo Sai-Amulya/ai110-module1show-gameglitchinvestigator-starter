@@ -9,6 +9,11 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
   (for example: "the hints were backwards").
 
 ---
+- It was a number guessing game with different difficulty levels.
+- Bugs:
+1. New game was not actually loaded when the button "New Game" is clicked.
+2. The hints were not correct.
+3. The difficulty level selected doesn't reflect the actual difficulty level.
 
 ## 2. How did you use AI as a teammate?
 
